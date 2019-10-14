@@ -2,7 +2,7 @@
 
 * Note -> not responsive but renders nicely enough on most mobile devices
 
-![App-Image](https://github.com/SeanValdivia/bin2dec/blob/master/src/images/Bin2Dec.png)
+![App-Image](https://github.com/Sebastion-Vigil/bin2dec/blob/master/src/images/Bin2Dec.png)
 
 **Tier:** 1-Beginner
 
